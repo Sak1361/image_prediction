@@ -1,1 +1,7 @@
 vgg16_transfer.h5 filter=lfs diff=lfs merge=lfs -text
+vgg16_bike_epoch30.h5 filter=lfs diff=lfs merge=lfs -text
+vgg16_bike_epoch40.h5 filter=lfs diff=lfs merge=lfs -text
+vgg16_bike_epoch60.h5 filter=lfs diff=lfs merge=lfs -text
+vgg16_bike.h5 filter=lfs diff=lfs merge=lfs -text
+imagefiles_224.npy filter=lfs diff=lfs merge=lfs -text
+imagefiles_bike.npy filter=lfs diff=lfs merge=lfs -text
